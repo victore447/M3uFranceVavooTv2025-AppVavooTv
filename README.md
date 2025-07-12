@@ -57,7 +57,7 @@ Et vous etes tranquille pour les fetes de fin d'années et pour longtemps.
 >  ![32](https://github.com/user-attachments/assets/bfaf655d-49e6-42fa-a38a-a924ef97c8ea)
 
 > - 🖲️ **[Vavoo RAR Mega.nz](https://mega.nz/folder/N6JSTQqL#Av1qLUk9wr4qlYRDgmvbYA)**
-> - 🖲️ **[Deezor Premuim Mod Google Drive (Url activation "vavoo.to") ](https://drive.google.com/file/d/1l4kH1F6Cl3x_1U6s_sKuUJ5TSeGBk3yR/view?usp=sharing)**
+> - 🖲️ **[Dezor Premuim Mod Google Drive (Url activation "vavoo.to") ](https://drive.google.com/file/d/1l4kH1F6Cl3x_1U6s_sKuUJ5TSeGBk3yR/view?usp=sharing)**
 > - 🖲️ **[All Url Vavoo Bundle URLs](https://archive.org/details/vavoo-box)**
 > 
 ></details>
