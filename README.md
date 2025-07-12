@@ -9,7 +9,7 @@
 ![46](https://github.com/user-attachments/assets/0298847c-9e8e-4404-840a-8451f799ea2c)
 <summary><b><u>Cliquer sur l'icone noir pour voir:</u></b></summary>
 <details>
-👆 Tout d'abort la playlist M3u joint au présent repo contient que des chaines Française (Environ 277).
+👆 Tout d'abort la playlist M3u joint au présent repo contient que des chaines Française (Environ 279).
   Ne marche que dans kodi via Iptv Pvr simple client  (pas tester sans le plugin video vaoo.to).
   Les liens s'ouvrent directement sans popu suite à la mise a jour recente du serveur VavooTo.
 👆 Par contre il y a des moments certaines chaines Tv ne marchent pas.
