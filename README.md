@@ -48,7 +48,7 @@ And you have peace of mind for the end of year holidays and for a long time.
 ![Vavooto1](https://github.com/user-attachments/assets/919eeec9-2652-4054-abc8-31c424c23601)
 ></details>
   
-☝️Comme nous aimons tous du gratuit,Avec le Fichier M3u Vavoo & Les Apk Vavoo 📺,Dezor By JokerTv 📺 (source de vavoo) 
+☝️Comme nous aimons tous du gratuit,Avec le Fichier M3u Vavoo & Les Apk Vavoo 📺,Dezor By JokerTv 📺 (sources Url de vavoo) 
 plus de coupures pendant de grands événement sportifs etc...
 Et vous etes tranquille pour les fetes de fin d'années et pour longtemps.
 
