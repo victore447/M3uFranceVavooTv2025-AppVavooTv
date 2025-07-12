@@ -1,5 +1,5 @@
 # M3u  France 🇫🇷 Vavoo Tv 2025 & App Vavoo Tv Android Tv
-🖐️ ![360](https://github.com/user-attachments/assets/fca9e0de-cf7b-4f5e-bc4a-9ece0a6c2343) App Vavoo 📺 Iptv  (playlist Tv World & France)
+🖐️ ![360](https://github.com/user-attachments/assets/fca9e0de-cf7b-4f5e-bc4a-9ece0a6c2343) App Vavoo 📺 Iptv  (playlist Tv France (m3u)  & World))
 
 <img width="628" height="247" alt="VavooFrance" src="https://github.com/user-attachments/assets/bf215962-7046-4ee0-8ef3-ffd951d0f1ae" />
 
@@ -49,6 +49,7 @@ And you have peace of mind for the end of year holidays and for a long time.
 ☝️Comme nous aimons tous du gratuit,Avec L'application VAVOO 📺 plus de coupures pendant de grands événement sportifs etc...
 Et vous etes tranquille pour les fetes de fin d'années et pour longtemps.
 
+![32](https://github.com/user-attachments/assets/2067d5d5-027e-42e5-af27-b33cbf5f92ac)
 ### <li>- [x] APK: </li>
 👇 
 ><details>
@@ -56,7 +57,7 @@ Et vous etes tranquille pour les fetes de fin d'années et pour longtemps.
 >  ![32](https://github.com/user-attachments/assets/bfaf655d-49e6-42fa-a38a-a924ef97c8ea)
 
 > - 🖲️ **[Vavoo RAR Mega.nz](https://mega.nz/folder/N6JSTQqL#Av1qLUk9wr4qlYRDgmvbYA)**
-> - 🖲️ **[Deezor Premuim Mod Google Drive ](https://drive.google.com/file/d/1l4kH1F6Cl3x_1U6s_sKuUJ5TSeGBk3yR/view?usp=sharing)**
+> - 🖲️ **[Deezor Premuim Mod Google Drive (Url activation "vavoo.to") ](https://drive.google.com/file/d/1l4kH1F6Cl3x_1U6s_sKuUJ5TSeGBk3yR/view?usp=sharing)**
 > - 🖲️ **[All Url Vavoo Bundle URLs](https://archive.org/details/vavoo-box)**
 > 
 ></details>
