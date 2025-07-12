@@ -48,7 +48,8 @@ And you have peace of mind for the end of year holidays and for a long time.
 ![Vavooto1](https://github.com/user-attachments/assets/919eeec9-2652-4054-abc8-31c424c23601)
 ></details>
   
-☝️Comme nous aimons tous du gratuit,Avec L'application VAVOO 📺 plus de coupures pendant de grands événement sportifs etc...
+☝️Comme nous aimons tous du gratuit,Avec le Fichier M3u Vavoo & L'application VAVOO 📺, Dezor By JokerTv 📺 (source de vavoo) 
+plus de coupures pendant de grands événement sportifs etc...
 Et vous etes tranquille pour les fetes de fin d'années et pour longtemps.
 
 ![32](https://github.com/user-attachments/assets/2067d5d5-027e-42e5-af27-b33cbf5f92ac)
