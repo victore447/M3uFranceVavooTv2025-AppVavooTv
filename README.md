@@ -13,6 +13,8 @@
   Ne marche que dans kodi via Iptv Pvr simple client  (pas tester sans le plugin video vaoo.to).
   Les liens s'ouvrent directement sans popu suite à la mise a jour recente du serveur VavooTo.
 👆 Par contre il y a des moments certaines chaines Tv ne marchent pas.
+  
+  - Guide TV (Url à inserer ou à telecharger) : https://xmltvfr.fr/xmltv/xmltv.xml
 ></details>
 
 ></details>
