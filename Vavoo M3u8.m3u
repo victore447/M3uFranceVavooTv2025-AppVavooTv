@@ -1,0 +1,339 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="IDF1.fr" tvg-name="20 Minutes TV" tvg-logo="https://i.ibb.co/5j6DZrt/20mn.png" group-title="Actualites",20 Minutes TV
+https://live-20minutestv.digiteka.com/1961167769/index.m3u8
+#EXTINF:-1 tvg-id="Africa24.af" tvg-name="Africa24" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/6a/Logo_Africa_24.jpg" group-title="Actualites",Africa24
+https://africa24.vedge.infomaniak.com/livecast/africa24/manifest.m3u8#origine-1005=https://tvradiozap.eu
+#EXTINF:-1 tvg-id="Africa24.af" tvg-name="Africa24" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/6a/Logo_Africa_24.jpg" group-title="Actualites",Africa24
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/2290952272/index.m3u8
+#EXTINF:-1 tvg-id="Africanews.fr" tvg-name="Africanews" tvg-logo="https://epg.pw/media/images/epg/2025/04/06/20250406040610254622_96.png" group-title="Actualites",Africanews
+https://africanews-fra-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6573/bitok/eyJzdGlkIjoiNWVkNGRjNTQtMjM0OC00NmJkLWEwMDUtY2U0M2I5Y2ZjYTcxIiwibWt0IjoiZnIiLCJjaCI6NjU3MywicHRmIjo1fQ%3D%3D/26037/africanews-fr.m3u8#origine-938=https://tvradiozap.eu
+#EXTINF:-1 tvg-id="BFM2.fr" tvg-name="BFM 2" tvg-logo="https://i.ibb.co/2MhqYgg/bfm2.png" group-title="Actualites",BFM 2
+https://live-cdn-bfm2-euw1.bfmtv.bct.nextradiotv.com/m5/media.m3u8?bpkio_serviceid=7de32147a4f1055b8812bbac92a24d2e
+#EXTINF:-1 tvg-id="BFM2.fr" tvg-name="BFM 2" tvg-logo="https://i.ibb.co/2MhqYgg/bfm2.png" group-title="Actualites",BFM 2
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM2/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-id="BFM2.fr" tvg-name="BFM 2" tvg-logo="https://i.ibb.co/2MhqYgg/bfm2.png" group-title="Actualites",BFM 2
+https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8
+#EXTINF:-1 tvg-id="BFM2.fr" tvg-name="BFM 2" tvg-logo="https://i.ibb.co/2MhqYgg/bfm2.png" group-title="Actualites",BFM 2
+https://live-cdn-bfm2-euw1.bfmtv.bct.nextradiotv.com/m1/media.m3u8?bpkio_serviceid=7de32147a4f1055b8812bbac92a24d2e
+#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-name="BFM Business" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/logoschaines169bfmbusinesscouleursnew.png" group-title="Actualites",BFM Business
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8#origine-874=https://tvradiozap.eu
+#EXTINF:-1 tvg-id="BFMParis.fr" tvg-name="BFM Paris" tvg-logo="https://images.bfmtv.com/Lr1Z2ZFmvETnNgXJYB4aPGum75Q=/0x0:0x0/800x0/site_manager_images/image_contenu1_nav_pastilles_1623851237615_1652343029008.jpg" group-title="Actualites",BFM Paris
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/1553725966/index.m3u8
+#EXTINF:-1 tvg-id="BFMParis.fr" tvg-name="BFM Paris" tvg-logo="https://images.bfmtv.com/Lr1Z2ZFmvETnNgXJYB4aPGum75Q=/0x0:0x0/800x0/site_manager_images/image_contenu1_nav_pastilles_1623851237615_1652343029008.jpg" group-title="Actualites",BFM Paris
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/4177424223/index.m3u8
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFM TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s90472_dark_360w_270h.png" group-title="Actualites",BFM TV
+https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8#origine-727=https://tvradiozap.eu
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFM TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s90472_dark_360w_270h.png" group-title="Actualites",BFM TV
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8
+#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-name="Canal 2 International" tvg-logo="https://mediatudecmr.com/wp-content/uploads/2019/08/Logo-Canal-2-400x323.jpg" group-title="Actualites",Canal 2 International
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/3388979409/index.m3u8
+#EXTINF:-1 tvg-id="CGTN.fr" tvg-name="CGTN Français" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/CGTN_-_français.png/640px-CGTN_-_français.png" group-title="Actualites",CGTN Français
+https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8#origine-668=https://tvradiozap.eu
+#EXTINF:-1 tvg-id="CNews.fr" tvg-name="CNews" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s52091_dark_360w_270h.png" group-title="Actualites",CNews
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8
+#EXTINF:-1 tvg-id="CNews.fr" tvg-name="CNews" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s52091_dark_360w_270h.png" group-title="Actualites",CNews
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-clair-hd.m3u8
+#EXTINF:-1 tvg-id="Euronews.fr" tvg-name="Euronews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png" group-title="Actualites",Euronews
+https://euronews-live-fra-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6564/bitok/eyJzdGlkIjoiOTgyOTZjMmUtYWQ4MS00M2YyLTk4MjktYTc4ODhiYjk4YzE1IiwibWt0IjoiZnIiLCJjaCI6NjU2NCwicHRmIjoxfQ==/26032/euronews-fr.m3u8#origine-643=https://tvradiozap.eu
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Euronews" tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png" group-title="Actualites",Euronews
+https://euronews-live-fre-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6564/bitok/e/26032/euronews-fr.m3u8
+#EXTINF:-1 tvg-id="Euronews.fr" tvg-name="Euronews" tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png" group-title="Actualites",Euronews
+https://jmp2.uk/sam-FR2600004SS.m3u8
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s60562_dark_360w_270h.png" group-title="Actualites",France 24
+https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s60562_dark_360w_270h.png" group-title="Actualites",France 24
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/
+#EXTINF:-1 tvg-id="FranceInfo.fr" tvg-name="France Info" tvg-logo="https://img.20mn.fr/0Gkk_u0qS22pBMK_ysg7kQ/1200x768_logo-chaine-france-info" group-title="Actualites",France Info
+https://tvradiozap.eu/tools/dm-m3u8.php/x4rdeu6.m3u8
+#EXTINF:-1 tvg-id="I24News.fr" tvg-name="i24 News" tvg-logo="https://i.ibb.co/j68q1Bp/i24.png" group-title="Actualites",i24 News
+https://bcovlive-a.akamaihd.net/41814196d97e433fb401c5e632d985e9/eu-central-1/5377161796001/playlist.m3u8
+#EXTINF:-1 tvg-id="I24News.fr" tvg-name="i24 News" tvg-logo="https://i.ibb.co/j68q1Bp/i24.png" group-title="Actualites",i24 News
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/3150455692/index.m3u8
+#EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b4/LCI_logo_%282016%29.png" group-title="Actualites",LCI
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/822873468/index.m3u8
+#EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b4/LCI_logo_%282016%29.png" group-title="Actualites",LCI
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/3143227243/index.m3u8
+#EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b4/LCI_logo_%282016%29.png" group-title="Actualites",LCI
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/lci1.m3u8
+#EXTINF:-1 tvg-id="LaChaineParlementaire.fr" tvg-name="LCP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/LCP.png" group-title="Actualites",LCP
+https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/dmotion/py/lcpan/lcp1.m3u8#origine-645=https://tvradiozap.eu
+#EXTINF:-1 tvg-id="LCP.fr" tvg-name="LCP" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s53760_dark_360w_270h.png" group-title="Actualites",LCP
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lcp/lcp-dm.m3u8
+#EXTINF:-1 tvg-id="LCP.fr" tvg-name="LCP" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s53760_dark_360w_270h.png" group-title="Actualites",LCP
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/1953594991/index.m3u8
+#EXTINF:-1 tvg-id="PanafricanMediaTV" tvg-name="Panafrican Media Tv" tvg-logo="https://i.ytimg.com/vi/hVcCCLdrHH8/maxresdefault.jpg" group-title="Actualites",Panafrican Media Tv
+https://live20.bozztv.com/giatv/giatv-pmtv/pmtv/playlist.m3u8
+#EXTINF:-1 tvg-id="PublicSenat.fr" tvg-name="Public Sénat" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/Logo_Public_S%C3%A9nat_%282019%29.svg/512px-Logo_Public_S%C3%A9nat_%282019%29.svg.png?20190920152857" group-title="Actualites",Public Sénat
+https://tvradiozap.eu/tools/dm-m3u8.php/xkxbzc.m3u8
+#EXTINF:-1 tvg-id="PublicSenat.fr" tvg-name="Public Sénat" tvg-logo="https://i.ibb.co/2jG942b/publicsn.png" group-title="Actualites",Public Sénat
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8
+#EXTINF:-1 tvg-id="PublicSenat.fr" tvg-name="Public Sénat" tvg-logo="https://i.ibb.co/2jG942b/publicsn.png" group-title="Actualites",Public Sénat
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/900020958/index.m3u8
+#EXTINF:-1 tvg-id="RTFrance.fr" tvg-name="RT France" tvg-logo="https://i.ibb.co/D7w9h7Q/rt.png" group-title="Actualites",RT France
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/1389909769/index.m3u8
+#EXTINF:-1 tvg-id="RTFrance.fr" tvg-name="RT France" tvg-logo="https://i.ibb.co/D7w9h7Q/rt.png" group-title="Actualites",RT France
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/1426079773/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RT France" tvg-logo="https://i.ibb.co/D7w9h7Q/rt.png" group-title="Actualites",RT France
+https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RT France" tvg-logo="https://i.ibb.co/D7w9h7Q/rt.png" group-title="Actualites",RT France
+https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
+#EXTINF:-1 tvg-id="RTFrance.fr" tvg-name="RT France" tvg-logo="https://i.ibb.co/D7w9h7Q/rt.png" group-title="Actualites",RT France
+http://69.64.57.208:8080/rtfrance/playlist.m3u8
+#EXTINF:-1 tvg-id="RTFrance.fr" tvg-name="RT France" tvg-logo="https://i.ibb.co/D7w9h7Q/rt.png" group-title="Actualites",RT France
+https://librarian.pussthecat.org/live/content/a6a125c99ba2a6c068a8b502fb08dda603f6f03a/live.m3u8
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="Tech And Co" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/Tech_%26_Co.svg/600px-Tech_%26_Co.svg.png" group-title="Actualites",Tech And Co
+https://d2py8vfwz3u72y.cloudfront.net/index.m3u8#origine-878=https://tvradiozap.eu
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="Tech And Co" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/Tech_%26_Co.svg/600px-Tech_%26_Co.svg.png" group-title="Actualites",Tech And Co
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/658342949/index.m3u8
+#EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-name="TV5 Monde Info" tvg-logo="https://static.epg.best/fr/TV5MondeAfrique.fr.png" group-title="Actualites",TV5 Monde Info
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/3319946628/index.m3u8
+#EXTINF:-1 tvg-id="Tv5MondeMaghrebOrient.fr" tvg-name="TV5 Monde Maghreb Orient" tvg-logo="https://pbs.twimg.com/profile_images/1496479852991594504/Vt0lg2iG_400x400.jpg" group-title="Actualites",TV5 Monde Maghreb Orient
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/70655167/index.m3u8
+#EXTINF:-1 tvg-id="Action.fr" tvg-name="Action" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/e87ece78-2a31-4a08-a673-6d08bb8f8a06-films-d-action-rakuten-tv-1621956489.png" group-title="Cinema et Series Tv",Action
+https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8
+#EXTINF:-1 tvg-id="Canalplus.fr" tvg-name="Canal+ FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s78977_dark_360w_270h.png" group-title="Cinema et Series Tv",Canal+ FHD
+https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-121.php
+#EXTINF:-1 tvg-id="Canalplus.fr" tvg-name="Canal+" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s78977_dark_360w_270h.png" group-title="Cinema et Series Tv",Canal+
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/837868540/index.m3u8
+#EXTINF:-1 tvg-id="Canalplus.fr" tvg-name="Canal+" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s78977_dark_360w_270h.png" group-title="Cinema et Series Tv",Canal+
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/4177424223/index.m3u8
+#EXTINF:-1 tvg-id="Canalplus.fr" tvg-name="Canal+" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s78977_dark_360w_270h.png" group-title="Cinema et Series Tv",Canal+
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/1839597702/index.m3u8
+#EXTINF:-1 tvg-id="Canalplus.fr" tvg-name="Canal+" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s78977_dark_360w_270h.png" group-title="Cinema et Series Tv",Canal+
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/6981957/index.m3u8
+#EXTINF:-1 tvg-id="CanalPlusFamily.fr" tvg-name="Canal+ Family HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s87283_dark_360w_270h.png" group-title="Cinema et Series Tv",Canal+ Family HD
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/1441897533/index.m3u8
+#EXTINF:-1 tvg-id="CanalPlusFamily.fr" tvg-name="Canal+ Family HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s87283_dark_360w_270h.png" group-title="Cinema et Series Tv",Canal+ Family HD
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/1649874389/index.m3u8
+#EXTINF:-1 tvg-id="CanalPlusCinema.fr" tvg-name="Canal+ Cinema FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s51771_dark_360w_270h.png" group-title="Cinema et Series Tv",Canal+ Cinema FHD
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/3980730104/index.m3u8
+#EXTINF:-1 tvg-id="CanalplusSeries.fr" tvg-name="Canal+ Series FHD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canalplus_fr_series.png" group-title="Cinema et Series Tv",Canal+ Series FHD
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/2141653939/index.m3u8
+#EXTINF:-1 tvg-id="CanalplusSeries.fr" tvg-name="Canal+ Series FHD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canalplus_fr_series.png" group-title="Cinema et Series Tv",Canal+ Series FHD
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/2962552355/index.m3u8
+#EXTINF:-1 tvg-id="CanalPlusGrandEcran.fr" tvg-name="Canal+ Grand Ecran FHD" tvg-logo="https://img.phonandroid.com/2021/12/canal-grand-ecran.jpg" group-title="Cinema et Series Tv",Canal+ Grand Ecran FHD
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/2574747173/index.m3u8
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="TF1 Series Films" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s83258_dark_360w_270h.png" group-title="Cinema et Series Tv",TF1 Series Films
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/1517845231/index.m3u8
+#EXTINF:-1 tvg-id="CanalPlusDocs.fr" tvg-name="Canal+ Docs" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-plus-docs-fr.png" group-title="Documentaires",Canal+ Docs
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/1161602732/index.m3u8
+#EXTINF:-1 tvg-id="CanalPlusDocs.fr" tvg-name="Canal+ Docs" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-plus-docs-fr.png" group-title="Documentaires",Canal+ Docs
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/3625345371/index.m3u8
+#EXTINF:-1 tvg-id="CrimeDistrict.fr" tvg-name="Crime District" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s106103_dark_360w_270h.png" group-title="Documentaires",Crime District
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/2686355607/index.m3u8
+#EXTINF:-1 tvg-id="CrimeDistrict.fr" tvg-name="Crime District" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s106103_dark_360w_270h.png" group-title="Documentaires",Crime District
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/2332499529/index.m3u8
+#EXTINF:-1 tvg-id="CrimeDistrict.fr" tvg-name="Crime District" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s106103_dark_360w_270h.png" group-title="Documentaires",Crime District
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/2364923189/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryInvestigation.fr" tvg-name="Discovery Investigation" tvg-logo="https://static.epg.best/fr/DiscoveryInvestigation.fr.png" group-title="Documentaires",Discovery Investigation
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/2863072722/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryInvestigation.fr" tvg-name="Discovery Investigation" tvg-logo="https://static.epg.best/fr/DiscoveryInvestigation.fr.png" group-title="Documentaires",Discovery Investigation
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/332590790/index.m3u8
+#EXTINF:-1 tvg-id="PlaneteJustice.fr" tvg-name="Planete+ Crime" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/planete_plus_crime_investigation.png" group-title="Documentaires",Planete+ Crime
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/1068998242/index.m3u8
+#EXTINF:-1 tvg-id="PlaneteJustice.fr" tvg-name="Planete+ Crime" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/planete_plus_crime_investigation.png" group-title="Documentaires",Planete+ Crime
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/3332590790/index.m3u8
+#EXTINF:-1 tvg-id="RmcDecouverte.fr" tvg-name="Rmc Decouverte" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rmc-decouverte-fr.png" group-title="Documentaires",Rmc Decouverte
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/2957270266/index.m3u8
+#EXTINF:-1 tvg-id="ScienceEtVieTV.fr" tvg-name="Science & Vie" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/science_et_vie_tv_fr.png" group-title="Documentaires",Science & Vie
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/386194247/index.m3u8
+#EXTINF:-1 tvg-id="ScienceEtVieTV.fr" tvg-name="Science & Vie" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/science_et_vie_tv_fr.png" group-title="Documentaires",Science & Vie
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/152357533/index.m3u8
+#EXTINF:-1 tvg-id="TouteHistoire.fr" tvg-name="Toute l'histoire" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/toute_histoire_fr.png" group-title="Documentaires",Toute l'histoire
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/213033516/index.m3u8
+#EXTINF:-1 tvg-id="Histoire.fr" tvg-name="Histoire" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s89067_dark_360w_270h.png" group-title="Documentaires",Histoire
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/985897714/index.m3u8
+#EXTINF:-1 tvg-id="Histoire.fr" tvg-name="Histoire" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s89067_dark_360w_270h.png" group-title="Documentaires",Histoire
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/665994240/index.m3u8
+#EXTINF:-1 tvg-id="TouteHistoire.fr" tvg-name="Toute l'histoire" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/toute_histoire_fr.png" group-title="Documentaires",Toute l'histoire
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/2233545095/index.m3u8
+#EXTINF:-1 tvg-id="TouteHistoire.fr" tvg-name="Toute l'histoire" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/toute_histoire_fr.png" group-title="Documentaires",Toute l'histoire
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/3780297604/index.m3u8
+#EXTINF:-1 tvg-id="ComediePlus.fr" tvg-name="Comedie HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s103799_dark_360w_270h.png" group-title="Generalistes",Comedie HD
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/1928514641/index.m3u8
+#EXTINF:-1 tvg-id="ComediePlus.fr" tvg-name="Comedie HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s103799_dark_360w_270h.png" group-title="Generalistes",Comedie HD
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/1447555262/index.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.fr" tvg-name="Comedy Central" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s103799_dark_360w_270h.png" group-title="Generalistes",Comedy Central
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/1366669684/index.m3u8
+#EXTINF:-1 tvg-id="MCM.fr" tvg-name="MCM" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/ab/MCM_logo_2017.svg/1280px-MCM_logo_2017.svg.png" group-title="Musique",MCM
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/334000968/index.m3u8
+#EXTINF:-1 tvg-id="MCMTop.fr" tvg-name="MCM Top" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/MCM_Top.png" group-title="Musique",MCM Top
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/888330944/index.m3u8
+#EXTINF:-1 tvg-id="MCMTop.fr" tvg-name="MCM Top" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/37/MCM_Pop_logo_2003.png" group-title="Musique",MCM Top
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/3711976443/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Digital Black Music" tvg-logo="https://www.parsatv.com/index_files/channels/dbm.png" group-title="Musique",Digital Black Music
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/888429508/index.m3u8
+#EXTINF:-1 tvg-id="M6Music.fr" tvg-name="M6 Music" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/1d/M6_Music_2012.png" group-title="Musique",M6 Music
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/2859360858/index.m3u8
+#EXTINF:-1 tvg-id="Melody.fr" tvg-name="Melody" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Melody_logo_2013.png/250px-Melody_logo_2013.png" group-title="Musique",Melody
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/1406674139/index.m3u8
+#EXTINF:-1 tvg-id="Melody.fr" tvg-name="Melody" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Melody_logo_2013.png/250px-Melody_logo_2013.png" group-title="Musique",Melody
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/2214657581/index.m3u8
+#EXTINF:-1 tvg-id="Melody.fr" tvg-name="Melody" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Melody_logo_2013.png/250px-Melody_logo_2013.png" group-title="Musique",Melody
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/3977317493/index.m3u8
+#EXTINF:-1 tvg-id="OlympiaTv.fr" tvg-name="Olympia TV" tvg-logo="https://www.lyngsat.com/logo/tv/oo/olympia-tv-fr.png" group-title="Musique",Olympia TV
+https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/816662552/index.m3u8
+#EXTINF:-1 tvg-id="OlympiaTv.fr" tvg-name="Olympia TV" tvg-logo="https://www.lyngsat.com/logo/tv/oo/olympia-tv-fr.png" group-title="Musique",Olympia TV
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/816662552/index.m3u8
+#EXTINF:-1 tvg-id="MTV.fr" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/langfr-200px-MTV-2021.svg.png" group-title="Musique",MTV
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/1317243355/index.m3u8
+#EXTINF:-1 tvg-id="MTV80s.fr" tvg-name="MTV 80'" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/langfr-200px-MTV-2021.svg.png" group-title="Musique",MTV 80'
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/3720143470/index.m3u8
+#EXTINF:-1 tvg-id="RFMTV.fr" tvg-name="RFM TV FHD" tvg-logo="https://static.epg.best/fr/RFMTV.fr.png" group-title="Musique",RFM TV FHD
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/4100689874/index.m3u8
+#EXTINF:-1 tvg-id="RFMTV.fr" tvg-name="RFM TV FHD" tvg-logo="https://static.epg.best/fr/RFMTV.fr.png" group-title="Musique",RFM TV FHD
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/2642050442/index.m3u8
+#EXTINF:-1 tvg-id="RFMTV.fr" tvg-name="RFM TV FHD" tvg-logo="https://static.epg.best/fr/RFMTV.fr.png" group-title="Musique",RFM TV FHD
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/2351066019/index.m3u8
+#EXTINF:-1 tvg-id="TraceAfrica.fr" tvg-name="Trace Africa HD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trace-africa-fr.png" group-title="Musique",Trace Africa HD
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/3506712074/index.m3u8
+#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="Trace Urban" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s103800_dark_360w_270h.png" group-title="Musique",Trace Urban
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/1883213622/index.m3u8
+#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="Trace Urban" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s103800_dark_360w_270h.png" group-title="Musique",Trace Urban
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/3595848084/index.m3u8
+#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="Trace Urban" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s103800_dark_360w_270h.png" group-title="Musique",Trace Urban
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/3209018316/index.m3u8
+#EXTINF:-1 tvg-id="beINSPORTS1.fr" tvg-name="beIn Sports 1 HD" tvg-logo="https://static.epg.best/fr/BeinSports1.fr.png" group-title="Sports",beIn Sports 1 HD
+https://teleroute991308.twilightparadox.com/proxy/m3u?url=https://daddylive.dad/embed/stream-116.php
+#EXTINF:-1 tvg-id="beINSPORTS1.fr" tvg-name="beIn Sports 1" tvg-logo="https://static.epg.best/fr/BeinSports1.fr.png" group-title="Sports",beIn Sports 1
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/3472596589/index.m3u8
+#EXTINF:-1 tvg-id="beINSPORTS1.fr" tvg-name="beIn Sports 1" tvg-logo="https://static.epg.best/fr/BeinSports1.fr.png" group-title="Sports",beIn Sports 1
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/1490095787/index.m3u8
+#EXTINF:-1 tvg-id="beINSPORTS1.fr" tvg-name="beIn Sports 1" tvg-logo="https://static.epg.best/fr/BeinSports1.fr.png" group-title="Sports",beIn Sports 1
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/181449693/index.m3u8
+#EXTINF:-1 tvg-id="beINSPORTS1.fr" tvg-name="beIn Sports 1" tvg-logo="https://static.epg.best/fr/BeinSports1.fr.png" group-title="Sports",beIn Sports 1
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/2869862642/index.m3u8
+#EXTINF:-1 tvg-id="beINSPORTS2.fr" tvg-name="beIn Sports 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="Sports",beIn Sports 2 HD
+https://teleroute991308.twilightparadox.com/proxy/m3u?url=https://daddylive.dad/embed/stream-117.php
+#EXTINF:-1 tvg-id="beINSPORTS2.fr" tvg-name="beIn Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="Sports",beIn Sports 2
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/4151747240/index.m3u8
+#EXTINF:-1 tvg-id="beINSPORTS2.fr" tvg-name="beIn Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="Sports",beIn Sports 2
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/3596486984/index.m3u8
+#EXTINF:-1 tvg-id="beINSPORTS2.fr" tvg-name="beIn Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="Sports",beIn Sports 2
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/796825423/index.m3u8
+#EXTINF:-1 tvg-id="beINSPORTS3.fr" tvg-name="beIn Sports 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="Sports",beIn Sports 3 HD
+https://teleroute991308.twilightparadox.com/proxy/m3u?url=https://daddylive.dad/embed/stream-118.php
+#EXTINF:-1 tvg-id="beINSPORTS3.fr" tvg-name="beIn Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="Sports",beIn Sports 3
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/3758995179/index.m3u8
+#EXTINF:-1 tvg-id="beINSPORTS3.fr" tvg-name="beIn Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="Sports",beIn Sports 3
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/2683082226/index.m3u8
+#EXTINF:-1 tvg-id="beINSPORTS3.fr" tvg-name="beIn Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="Sports",beIn Sports 3
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/3520000914/index.m3u8
+#EXTINF:-1 tvg-id="CanalPlusFoot.fr" tvg-name="Canal+ Foot" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-plus-foot-fr.png" group-title="Sports",Canal+ Foot FHD
+https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-463.php
+#EXTINF:-1 tvg-id="CanalPlusFoot.fr" tvg-name="Canal+ Foot" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-plus-foot-fr.png" group-title="Sports",Canal+ Foot
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/3271278010/index.m3u8
+#EXTINF:-1 tvg-id="CanalPlusFoot.fr" tvg-name="Canal+ Foot" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-plus-foot-fr.png" group-title="Sports",Canal+ Foot
+https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3299673666/index.m3u8
+#EXTINF:-1 tvg-id="CanalPlusFoot.fr" tvg-name="Canal+ Foot" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-plus-foot-fr.png" group-title="Sports",Canal+ Foot
+https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/180860151/index.m3u8
+#EXTINF:-1 tvg-id="CanalPlusFoot.fr" tvg-name="Canal+ Foot" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-plus-foot-fr.png" group-title="Sports",Canal+ Foot
+https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1224436937/index.m3u8
+#EXTINF:-1 tvg-id="CanalPlusFoot.fr" tvg-name="Canal+ Foot" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-plus-foot-fr.png" group-title="Sports",Canal+ Foot
+https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1975426357/index.m3u8
+#EXTINF:-1, tvg-id="CanalplusMotoGP.fr" tvg-logo="https://www.planetecsat.com/wp-content/uploads/2022/10/cgp.png" tvg-name="Canal+ Moto GP FHD"  group-title="Sports",Canal+ Moto GP FHD
+https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-271.php
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="Canal+ Sport" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canalplus_fr_sport_1.png" group-title="Sports",Canal+ Sport FHD
+https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-122.php
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="Canal+ Sport" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canalplus_fr_sport_1.png" group-title="Sports",Canal+ Sport
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/1012399982/index.m3u8
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="Canal+ Sport " tvg-logo="https://www.lyngsat.com/logo/tv/cc/canalplus_fr_sport.png" group-title="Sports",Canal+ Sport
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/1051067269/index.m3u8
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="Canal+ Sport " tvg-logo="https://www.lyngsat.com/logo/tv/cc/canalplus_fr_sport.png" group-title="Sports",Canal+ Sport 
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/3280446601/index.m3u8
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="Canal+ Sport " tvg-logo="https://www.lyngsat.com/logo/tv/cc/canalplus_fr_sport.png" group-title="Sports",Canal+ Sport 
+https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1012399982/index.m3u8
+#EXTINF:-1 tvg-id="CanalPlusSport2.af" tvg-name="Canal+ Sport 2" tvg-logo="" group-title="Sports",Canal+ Sport 2
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/703788444/index.m3u8
+#EXTINF:-1 tvg-id="CanalPlusSport2.af" tvg-name="Canal+ Sport 2" tvg-logo="" group-title="Sports",Canal+ Sport 2
+https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/48980802/index.m3u8
+#EXTINF:-1 tvg-id="CanalPlusSport3.af" tvg-name="Canal+ Sport 3" tvg-logo="" group-title="Sports",Canal+ Sport 3
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/1066093298/index.m3u8
+#EXTINF:-1 tvg-id="CanalPlusSport360.fr" tvg-name="Canal+ Sport 360 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Canal%2BSport_360.png" group-title="Sports",Canal+ Sport 360 FHD
+https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-464.php
+#EXTINF:-1 tvg-id="CanalPlusSport360.fr" tvg-name="Canal+ Sport 360" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Canal%2BSport_360.png" group-title="Sports",Canal+ Sport 360
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/3411759213/index.m3u8
+#EXTINF:-1 tvg-id="DAZN1.fr" tvg-name="DAZN 1" tvg-logo="https://thumb.canalplus.pro/http/unsafe/%7BresolutionXY%7D/filters:quality(%7BimageQualityPercentage%7D)/canalplus-cdn.canal-plus.io/p1/channel/1077/canal-ouah/CHN43FB/CHN43FB_1077_20231002" group-title="Sports",DAZN 1
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/3567590597/index.m3u8
+#EXTINF:-1 tvg-id="DAZN1.fr" tvg-name="DAZN 1" tvg-logo="https://thumb.canalplus.pro/http/unsafe/%7BresolutionXY%7D/filters:quality(%7BimageQualityPercentage%7D)/canalplus-cdn.canal-plus.io/p1/channel/1077/canal-ouah/CHN43FB/CHN43FB_1077_20231002" group-title="Sports",DAZN 1
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/3110706438/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png" group-title="Sports",Eurosport 1
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/1801327897/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png" group-title="Sports",Eurosport 1
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/3719734336/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="Eurosport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png" group-title="Sports",Eurosport 2
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/2585190032/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="Eurosport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png" group-title="Sports",Eurosport 2
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/3914532448/index.m3u8
+#EXTINF:-1 tvg-id="InfosportPlus.fr" tvg-name="Infosport+" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Infosport%2B_%282016%29.svg/langfr-250px-Infosport%2B_%282016%29.svg.png" group-title="Sports",Infosport+
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/3208238801/index.m3u8
+#EXTINF:-1 tvg-id="InfosportPlus.fr" tvg-name="Infosport+" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Infosport%2B_%282016%29.svg/langfr-250px-Infosport%2B_%282016%29.svg.png" group-title="Sports",Infosport+
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/1112782125/index.m3u8
+#EXTINF:-1 tvg-id="InfosportPlus.fr" tvg-name="Infosport+" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Infosport%2B_%282016%29.svg/langfr-250px-Infosport%2B_%282016%29.svg.png" group-title="Sports",Infosport+
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/3458581745/index.m3u8
+#EXTINF:-1 tvg-id="LEquipe21.fr" tvg-name="L'Equipe 21" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/L%27%C3%89quipe_wordmark.svg/langfr-250px-L%27%C3%89quipe_wordmark.svg.png" group-title="Sports",L'Equipe 21
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/754002226/index.m3u8
+#EXTINF:-1 tvg-id="LEquipe21.fr" tvg-name="L'Equipe 21" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/L%27%C3%89quipe_wordmark.svg/langfr-250px-L%27%C3%89quipe_wordmark.svg.png" group-title="Sports",L'Equipe 21
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/1064699189/index.m3u8
+#EXTINF:-1 tvg-id="LEquipeLive1.fr" tvg-name="LEquipe Live 1" tvg-logo="https://static.epg.best/fr/LEquipe21.fr.png" group-title="Sports",LEquipe Live 1
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/3143265587/index.m3u8
+#EXTINF:-1 tvg-id="LEquipeLive1.fr" tvg-name="LEquipe Live 1" tvg-logo="https://static.epg.best/fr/LEquipe21.fr.png" group-title="Sports",LEquipe Live 1
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/54002226/index.m3u8
+#EXTINF:-1 tvg-id="LEquipeLive2.fr" tvg-name="LEquipe Live 2" tvg-logo="https://static.epg.best/fr/LEquipe21.fr.png" group-title="Sports",LEquipe Live 2
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/4244248547/index.m3u8
+#EXTINF:-1 tvg-id="MotorvisionTV.fr" tvg-name="Motor Vision TV" tvg-logo="https://www.mxgp.com/sites/default/files/news/image/MotorvisionTV2.png" group-title="Sports",Motor Vision TV
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/1418121777/index.m3u8
+#EXTINF:-1 tvg-id="RMCSport1.fr" tvg-name="RMC Sport 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Logo_RMC_Sport_1_2018.svg/2560px-Logo_RMC_Sport_1_2018.svg.png" group-title="Sports",RMC Sport 1 FHD
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/2893363456/index.m3u8
+#EXTINF:-1 tvg-id="RMCSport1.fr" tvg-name="RMC Sport 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Logo_RMC_Sport_1_2018.svg/2560px-Logo_RMC_Sport_1_2018.svg.png" group-title="Sports",RMC Sport 1 HD
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/4198743891/index.m3u8
+#EXTINF:-1 tvg-id="RMCSport1.fr" tvg-name="RMC Sport 2 FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s104092_dark_360w_270h.png" group-title="Sports",RMC Sport 2 FHD
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/2516059589/index.m3u8
+#EXTINF:-1 tvg-id="RMCSport1.fr" tvg-name="RMC Sport 2 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s104092_dark_360w_270h.png" group-title="Sports",RMC Sport 2 HD
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/2246359828/index.m3u8
+#EXTINF:-1 tvg-id="SportEnFrance.fr" tvg-name="Sport En France" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/8a/Sport_en_France_2L_RVB.png/250px-Sport_en_France_2L_RVB.png" group-title="Sports",Sport En France
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/2899051504/index.m3u8
+#EXTINF:-1 tvg-id="SportEnFrance.fr" tvg-name="Sport En France" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/8a/Sport_en_France_2L_RVB.png/250px-Sport_en_France_2L_RVB.png" group-title="Sports",Sport En France
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/2793894290/index.m3u8
+#EXTINF:-1 tvg-id="Arte.fr" tvg-name="Arte" tvg-logo="https://images.squarespace-cdn.com/content/v1/553f926ce4b0a46bddb4baf6/1561374992682-AQP12A8997URCIOMDY5I/ARTE-seul-2.png" group-title="Tnt",Arte
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/3537501017/index.m3u8
+#EXTINF:-1 tvg-id="Arte.fr" tvg-name="Arte" tvg-logo="https://images.squarespace-cdn.com/content/v1/553f926ce4b0a46bddb4baf6/1561374992682-AQP12A8997URCIOMDY5I/ARTE-seul-2.png" group-title="Tnt",Arte
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/1666352419/index.m3u8
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="France 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s24463_dark_360w_270h.png" group-title="Tnt",France 2
+https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3118025835/index.m3u8
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="France 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s24463_dark_360w_270h.png" group-title="Tnt",France 2
+https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/876169338/index.m3u8
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s105763_dark_360w_270h.png" group-title="Tnt",France 3
+http://212.102.60.80/France3/index.m3u8
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s105763_dark_360w_270h.png" group-title="Tnt",France 3
+http://99.27.51.147:8080/France3/index.m3u8
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="France 5" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s87350_dark_360w_270h.png" group-title="Tnt",France 5
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/3004974450/index.m3u8
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="France 5" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s87350_dark_360w_270h.png" group-title="Tnt",France 5
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/2249823338/index.m3u8
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6" tvg-logo="https://i.ibb.co/wgJTdGY/m6.png" group-title="Tnt",M6
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/3813068770/index.m3u8
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6" tvg-logo="https://i.ibb.co/wgJTdGY/m6.png" group-title="Tnt",M6
+https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2264106144/index.m3u8
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6" tvg-logo="https://i.ibb.co/wgJTdGY/m6.png" group-title="Tnt",M6
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/3435456326/index.m3u8
+#EXTINF:-1 tvg-id="Numero23.fr" tvg-name="RMC Story" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/logoschaines169rmcstorycouleurs.png" group-title="Tnt",RMC Story
+https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8#origine-644=https://tvradiozap.eu
+#EXTINF:-1 tvg-id="Numero23.fr" tvg-name="RMC Story" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/logoschaines169rmcstorycouleurs.png" group-title="Tnt",RMC Story
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/1047236463/index.m3u
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s70551_dark_360w_270h.png" group-title="Tnt",TF1 HD
+https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-469.php
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s70551_dark_360w_270h.png" group-title="Tnt",TF1 HD
+https://teleroute991308.twilightparadox.com/proxy/m3u?url=https://daddylive.dad/embed/stream-455.php
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s70551_dark_360w_270h.png" group-title="Tnt",TF1
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/1334669376/index.m3u8
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s70551_dark_360w_270h.png" group-title="Tnt",TF1
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/1484327785/index.m3u8
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s70551_dark_360w_270h.png" group-title="Tnt",TF1
+https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1517845231/index.m3u8
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/TMC_logo.jpg" group-title="Tnt",TMC
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tmc.m3u8#origine-895=https://tvradiozap.eu
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/TMC_logo.jpg" group-title="Tnt",TMC
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/4228507215/index.m3u8
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/TMC_logo.jpg" group-title="Tnt",TMC
+https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://vavoo.to/play/361211396/index.m3u8
