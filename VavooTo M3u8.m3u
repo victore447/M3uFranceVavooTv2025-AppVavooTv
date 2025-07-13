@@ -338,11 +338,17 @@ plugin://plugin.video.vavooto/?name=MEZZO&type=vavoo&group=France
 #EXTINF:-1 tvg-id="MezzoLive.fr" tvg-name="MezzoLive" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f0/Mezzo_Live_HD.png" group-title="MUSIQUE",MezzoLive
 plugin://plugin.video.vavooto/?name=MEZZO+LIVE&type=vavoo&group=France
 #EXTINF:-1 tvg-id="MTV80s.fr" tvg-name="MTV 80S" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/MTV_80s_2022.png" group-title="MUSIQUE",MTV 80Sp
-lugin://plugin.video.vavooto/?name=MTV+80S&type=vavoo&group=United+Kingdom
+plugin://plugin.video.vavooto/?name=MTV+80S&type=vavoo&group=United+Kingdom
 #EXTINF:-1 tvg-id="MTV90s.fr" tvg-name="MTV 90S" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-90s-us.svg" group-title="MUSIQUE",MTV 90S
 plugin://plugin.video.vavooto/?name=MTV+90S&type=vavoo&group=United+Kingdom
 #EXTINF:-1 tvg-id="MTV.fr" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/langfr-200px-MTV-2021.svg.png" group-title="MUSIQUE",MTV
 plugin://plugin.video.vavooto/?name=MTV+FRANCE&type=vavoo&group=France
+#EXTINF:-1 tvg-id="NOW70s.uk" tvg-name="NOW 70S" tvg-logo="https://www.lyngsat.com/logo/tv/nn/now-70s-uk.svg" group-title="MUSIQUE",NOW 70S
+plugin://plugin.video.vavooto/?name=NOW+70S&type=vavoo&group=United+Kingdom
+#EXTINF:-1 tvg-id="NOW80s.uk" tvg-name="NOW 80S" tvg-logo="https://www.lyngsat.com/logo/tv/nn/now-80s-uk.svg" group-title="MUSIQUE",NOW 80S
+plugin://plugin.video.vavooto/?name=NOW+80S&type=vavoo&group=United+Kingdom
+#EXTINF:-1 tvg-id="NOW90s.uk" tvg-name="NOW 90S" tvg-logo="https://www.lyngsat.com/logo/tv/nn/now-90s-uk.svg" group-title="MUSIQUE",NOW 90S
+plugin://plugin.video.vavooto/?name=NOW+90S&type=vavoo&group=United+Kingdom
 #EXTINF:-1 tvg-id="NRJHits.fr" tvg-name="NRJ Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/36/NRJ_Hits_2017.svg/1200px-NRJ_Hits_2017.svg.png" group-title="MUSIQUE",NRJ Hits
 plugin://plugin.video.vavooto/?name=NRJ+HITS&type=vavoo&group=France
 #EXTINF:-1 tvg-id="OlympiaTv.fr" tvg-name="Olympia Tv" tvg-logo="" group-title="MUSIQUE",Olympia Tv
