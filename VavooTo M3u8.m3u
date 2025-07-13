@@ -159,8 +159,10 @@ plugin://plugin.video.vavooto/?name=ORANGE+FRANCEBOX+5&type=vavoo&group=France
 plugin://plugin.video.vavooto/?name=CINE%2B+ACTION&type=vavoo&group=France
 #EXTINF:-1 tvg-id="CANAL+FILM" tvg-name="Canal Film" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Canal%2B_Film_HD.png" group-title="CINEMA",Canal Film
 plugin://plugin.video.vavooto/?name=CANAL%2B+FILM&type=vavoo&group=France
-#EXTINF:-1 tvg-id="CANAL+" tvg-name="CANAL+" tvg-logo="https://logos-marques.com/wp-content/uploads/2020/04/Canal-Logo-1995-768x432.png" group-title="CINEMA",CANAL+
+#EXTINF:-1 tvg-id="Canalplus.fr" tvg-name="CANAL+" tvg-logo="https://logos-marques.com/wp-content/uploads/2020/04/Canal-Logo-1995-768x432.png" group-title="CINEMA",CANAL+
 plugin://plugin.video.vavooto/?name=CANAL%2B&type=vavoo&group=France
+#EXTINF:-1 tvg-id="Canalplus.fr" tvg-name="CANAL+" tvg-logo="https://logos-marques.com/wp-content/uploads/2020/04/Canal-Logo-1995-768x432.png" group-title="CINEMA",CANAL+
+plugin://plugin.video.vavooto/?name=CANAL%2B+ULTRA&type=vavoo&group=France
 #EXTINF:-1 tvg-id="CANAL+ CINEMA" tvg-name="Canal+ Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/eb/C%2B_Cin%C3%A9ma%28s%29.png" group-title="CINEMA",Canal+ Cinema
 plugin://plugin.video.vavooto/?name=CANAL%2b%20CINEMA&type=vavoo&group=France
 #EXTINF:-1 tvg-id="CANAL+PLUS+C+NEMA" tvg-name="Canal+ Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/eb/C%2B_Cin%C3%A9ma%28s%29.png" group-title="CINEMA",Canal+ Cinema
@@ -335,6 +337,10 @@ plugin://plugin.video.vavooto/?name=MELODY&type=vavoo&group=France
 plugin://plugin.video.vavooto/?name=MEZZO&type=vavoo&group=France
 #EXTINF:-1 tvg-id="MezzoLive.fr" tvg-name="MezzoLive" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f0/Mezzo_Live_HD.png" group-title="MUSIQUE",MezzoLive
 plugin://plugin.video.vavooto/?name=MEZZO+LIVE&type=vavoo&group=France
+#EXTINF:-1 tvg-id="MTV80s.fr" tvg-name="MTV 80S" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/MTV_80s_2022.png" group-title="MUSIQUE",MTV 80Sp
+lugin://plugin.video.vavooto/?name=MTV+80S&type=vavoo&group=United+Kingdom
+#EXTINF:-1 tvg-id="MTV90s.fr" tvg-name="MTV 90S" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-90s-us.svg" group-title="MUSIQUE",MTV 90S
+plugin://plugin.video.vavooto/?name=MTV+90S&type=vavoo&group=United+Kingdom
 #EXTINF:-1 tvg-id="MTV.fr" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/langfr-200px-MTV-2021.svg.png" group-title="MUSIQUE",MTV
 plugin://plugin.video.vavooto/?name=MTV+FRANCE&type=vavoo&group=France
 #EXTINF:-1 tvg-id="NRJHits.fr" tvg-name="NRJ Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/36/NRJ_Hits_2017.svg/1200px-NRJ_Hits_2017.svg.png" group-title="MUSIQUE",NRJ Hits
@@ -353,6 +359,10 @@ plugin://plugin.video.vavooto/?name=TRACE+CARIBBEAN&type=vavoo&group=France
 plugin://plugin.video.vavooto/?name=TRACE+URBAN&type=vavoo&group=France
 #EXTINF:-1 tvg-id="beINSPORTS1.fr" tvg-name="beIn Sports 1" tvg-logo="https://c0.klipartz.com/pngpicture/320/259/gratis-png-bein-sports-1-logo-bein-taquilla-bein-media-group-canal-de-television.png" group-title="SPORTS",beIn Sports 1
 plugin://plugin.video.vavooto/?name=BEIN+SPORTS+1&type=vavoo&group=France
+#EXTINF:-1 tvg-id="beINSPORTS1.fr" tvg-name="beIn Sports 1" tvg-logo="https://c0.klipartz.com/pngpicture/320/259/gratis-png-bein-sports-1-logo-bein-taquilla-bein-media-group-canal-de-television.png" group-title="SPORTS",beIn Sports 1
+plugin://plugin.video.vavooto/?name=BEIN+SPORTS+1+HD+%5BLIVE+DURING+EVENTS+ONLY%5D&type=vavoo&group=France
+#EXTINF:-1 tvg-id="beINSPORTS1.fr" tvg-name="beIn Sports 1" tvg-logo="https://c0.klipartz.com/pngpicture/320/259/gratis-png-bein-sports-1-logo-bein-taquilla-bein-media-group-canal-de-television.png" group-title="SPORTS",beIn Sports 1
+plugin://plugin.video.vavooto/?name=BEIN+SPORTS+1+FHD+%5BLIVE+DURING+EVENTS+ONLY%5D&type=vavoo&group=France
 #EXTINF:-1 tvg-id="beINSPORTS2.fr" tvg-name="beIn Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="SPORTS",beIn Sports 2
 plugin://plugin.video.vavooto/?name=BEIN+SPORTS+2&type=vavoo&group=France
 #EXTINF:-1 tvg-id="beINSPORTS3.fr" tvg-name="beIn Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="SPORTS",beIn Sports 3
