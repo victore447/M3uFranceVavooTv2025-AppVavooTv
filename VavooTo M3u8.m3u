@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Afrca24.fr" group-title="ACTUALITES" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6a/Logo_Africa_24.jpg/150px-Logo_Africa_24.jpg?20220802124649",Africa 24
-plugin://plugin.video.vavooto/?name=AFRICA+24&type=vavoo&group=Franc
+plugin://plugin.video.vavooto/?name=AFRICA+24&type=vavoo&group=France
 #EXTINF:-1 tvg-id="BFMBusiness.fr" group-title="ACTUALITES" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/06/BFMBUSINESS-2023.svg/langfr-250px-BFMBUSINESS-2023.svg.png",BFM BUSINESS
 plugin://plugin.video.vavooto/?name=BFM+BUSINESS&type=vavoo&group=France
 #EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/BFM_TV_logo.png" group-title="ACTUALITES",BFM TV
