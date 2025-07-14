@@ -20,7 +20,7 @@ plugin://plugin.video.vavooto/?name=LCI&type=vavoo&group=France
 #EXTINF:-1 tvg-id="LaChaineParlementaire.fr" tvg-name="LCP" tvg-logo="https://i.postimg.cc/dtNWFqXk/IMG-20240318-015448.png" group-title="ACTUALITES",LCP
 plugin://plugin.video.vavooto/?name=LCP+ASSEMBLEE+NATIONALE&type=vavoo&group=France
 #EXTINF:-1 tvg-id="publicsenat.fr" tvg-name="Public Senat " tvg-logo="https://www.lyngsat.com/logo/tv/pp/public-senat-fr.png" group-title="ACTUALITES",Public Senat 
-lugin://plugin.video.vavooto/?name=PUBLIC+SENAT&type=vavoo&group=France
+plugin://plugin.video.vavooto/?name=PUBLIC+SENAT&type=vavoo&group=France
 #EXTINF:-1 tvg-id="RTFrance.fr" tvg-name="RT France" tvg-logo="https://i.postimg.cc/rwfJhp1k/RT-France-svg.png" group-title="ACTUALITES",RT France
 plugin://plugin.video.vavooto/?name=RT+FRANCE&type=vavoo&group=France
 #EXTINF:-1 tvg-id="01TV.fr" tvg-name="Tech And Co" tvg-logo="https://static.s-sfr.fr/techandcologo.png" group-title="ACTUALITES",Tech And Co
