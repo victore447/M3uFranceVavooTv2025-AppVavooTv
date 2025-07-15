@@ -9,6 +9,8 @@ plugin://plugin.video.vavooto/?name=BFM&type=vavoo&group=France
 plugin://plugin.video.vavooto/?name=CGTN&type=vavoo&group=France
 #EXTINF:-1 tvg-id="CNews.fr" tvg-name="CNews" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-226.png" group-title="ACTUALITES",CNews
 plugin://plugin.video.vavooto/?name=C+NEWS&type=vavoo&group=France
+#EXTINF:-1 tvg-id="Euronews.fr" tvg-name="EURONEWS" tvg-logo="https://static.wikia.nocookie.net/logo-chaines/images/a/ab/Euronews_2016_logo.svg.png/revision/latest?cb=20190722173431&path-prefix=fr" group-title="ACTUALITES",EURONEWS
+plugin://plugin.video.vavooto/?name=EURONEWS&type=vavoo&group=France
 #EXTINF:-1 tvg-id="France24.fr" tvg-name="France24" tvg-logo="https://i.postimg.cc/TPwp9d9B/640px-France24.png" group-title="ACTUALITES",France24
 plugin://plugin.video.vavooto/?name=FRANCE 24&type=vavoo&group=France
 #EXTINF:-1 tvg-id="Franceinfo.fr" tvg-name="FranceInfo" tvg-logo="https://i.postimg.cc/9QDT35Nq/franceinfo-en-journee-speciale-A-quoi-ressemblera-votre-ete-vendredi-1er-juillet-edit-510848289542.jpg" group-title="ACTUALITES",FranceInfo
@@ -161,7 +163,7 @@ plugin://plugin.video.vavooto/?name=CINE%2B+ACTION&type=vavoo&group=France
 plugin://plugin.video.vavooto/?name=CANAL%2B+FILM&type=vavoo&group=France
 #EXTINF:-1 tvg-id="Canalplus.fr" tvg-name="CANAL+" tvg-logo="https://logos-marques.com/wp-content/uploads/2020/04/Canal-Logo-1995-768x432.png" group-title="CINEMA",CANAL+
 plugin://plugin.video.vavooto/?name=CANAL%2B&type=vavoo&group=France
-#EXTINF:-1 tvg-id="Canalplus.fr" tvg-name="CANAL+" tvg-logo="https://logos-marques.com/wp-content/uploads/2020/04/Canal-Logo-1995-768x432.png" group-title="CINEMA",CANAL+
+#EXTINF:-1 tvg-id="Canalplus.fr" tvg-name="CANAL+" tvg-logo="https://logos-marques.com/wp-content/uploads/2020/04/Canal-Logo-1995-768x432.png" group-title="CINEMA",CANAL+ UHD
 plugin://plugin.video.vavooto/?name=CANAL%2B+ULTRA&type=vavoo&group=France
 #EXTINF:-1 tvg-id="CANAL+ CINEMA" tvg-name="Canal+ Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/eb/C%2B_Cin%C3%A9ma%28s%29.png" group-title="CINEMA",Canal+ Cinema
 plugin://plugin.video.vavooto/?name=CANAL%2b%20CINEMA&type=vavoo&group=France
@@ -423,6 +425,8 @@ plugin://plugin.video.vavooto/?name=EUROSPORT+360+2&type=vavoo&group=France
 plugin://plugin.video.vavooto/?name=EUROSPORT+360+3&type=vavoo&group=France
 #EXTINF:-1 tvg-id="InfosportPlus.fr" tvg-name="Infosport+" tvg-logo="https://www.lyngsat.com/logo/tv/ii/infosport-plus-fr.png" group-title="SPORTS",Infosport+
 plugin://plugin.video.vavooto/?name=INFOSPORT%2B&type=vavoo&group=France
+#EXTINF:-1 tvg-id="InfosportPlus.fr" tvg-name="Infosport+" tvg-logo="https://www.lyngsat.com/logo/tv/ii/infosport-plus-fr.png" group-title="SPORTS",Infosport+
+plugin://plugin.video.vavooto/?name=INFOSPORT&type=vavoo&group=France
 #EXTINF:-1 tvg-id="RMCSport1.fr" tvg-name="RMC Sport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Logo_RMC_Sport_1_2018.svg/2560px-Logo_RMC_Sport_1_2018.svg.png" group-title="SPORTS",RMC Sport 1
 plugin://plugin.video.vavooto/?name=RMC+SPORT+1&type=vavoo&group=France
 #EXTINF:-1 tvg-id="RMC+SPORT+10" tvg-name="RMC SPORT 10" tvg-logo="https://www.reseaux-com.fr/wp-content/uploads/2018/06/logo-rmc-sport.png" group-title="SPORTS",RMC SPORT 10
